@@ -7,7 +7,6 @@
 .banner{
     background-image: url("../new-year-new-me/images/hope.jpg");
     
-    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     padding: 50px 100px;
@@ -38,6 +37,65 @@ color: #0bcff6df;
     background-color: #ff7f50;
 }
 /*main section*/
-.main-area{
+
+.failur-text{
     display: flex;
+    gap: 90px;
+    
+    
 }
+.main-description{
+    padding-top: 300px;
+   
+}
+.failur-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color:#151414 ;
+    margin-bottom: 20px;
+    
+    
+}
+.failur-description{
+    
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 15px;
+    color: #444343;
+}
+.list-item{
+    
+    font-weight: 400;
+    font-size: 16px;
+    color: #8b0000;
+    list-style: none;
+   
+}
+/* Plan to Do */
+.my-plans{
+    margin: 130px;
+    
+}
+.plan-container{
+    display: flex;
+    margin-left: 350px;
+    margin-right: 285px;
+    justify-content: space-between;
+    padding-top: 50px;
+   
+
+   
+}
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+   
+}
+.plan{
+    text-align: center;
+    
+}
+
+
