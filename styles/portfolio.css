@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    font-family: work sans;
+
+}
+/* banner area */
+.banner{
+    background-image: url("../new-year-new-me/images/hope.jpg");
+    
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 100px;
+    
+}
+.banner-title{
+    font-weight: 800;
+font-size: 55px;
+text-align: left;
+color: #0bcff6df;
+
+}
+.banner-description{
+    font-weight: 700;
+    font-size: 18px;
+    color: #556b2f;
+
+}
+.btn-primary{
+    margin-top: 15px;
+    font-weight: 6000;
+    font-size: 20px;
+    padding: 25px 20px;
+    border: none;
+    border-radius: 5px;
+    color: 
+    #005FAC;
+    background-color: #ff7f50;
+}
+/*main section*/
+.main-area{
+    display: flex;
+}
