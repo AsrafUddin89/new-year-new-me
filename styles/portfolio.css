@@ -5,7 +5,7 @@
 }
 /* banner area */
 .banner{
-    background-image: url("../new-year-new-me/images/hope.jpg");
+    background-image: url("../images/hope.jpg");
     
     background-size: cover;
     background-position: center;
@@ -129,7 +129,7 @@ color: #0bcff6df;
     height: 175px;
     
     margin-left: 250px;
-    background-image:url("../new-year-new-me/images/watch.png");
+    background-image:url("../images/watch.png");
     background-repeat: no-repeat;
     background: -moz-linear-gradient(gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%));
     border-radius: 8px;
