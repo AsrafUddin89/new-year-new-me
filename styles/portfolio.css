@@ -117,6 +117,8 @@ color: #0bcff6df;
     } 
     /*textarea*/
     .box{
+        margin-top: 55px;
+        margin-bottom: 35px;
         align:center
     
     }
@@ -129,16 +131,20 @@ color: #0bcff6df;
     margin-left: 250px;
     background-image:url("../new-year-new-me/images/watch.png");
     background-repeat: no-repeat;
+    background: -moz-linear-gradient(gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%));
     border-radius: 8px;
     padding: 60px 570px 59px 111px;
    
     
   }
   .btn-second{
+    height: 45px;
+    width: 145px;
+    text-align:justify;
     margin-top: 15px;
     font-weight: 600;
-    font-size: 20px;
-    padding: 25px 20px;
+    font-size: 18px;
+    
     border: none;
     border-radius: 5px;
     color: 
@@ -148,6 +154,7 @@ color: #0bcff6df;
 /*footer*/
 .footer{
     display: flex;
+    margin-bottom: 35px;
     justify-content: space-between;
     background-color: #151414;
 
@@ -159,8 +166,14 @@ color: #0bcff6df;
     padding-right: 150px;
     
     color: #f0f8ff;
-    
-
+}
+.future-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+.future-description{
+    font-weight: 400;
+    font-size: 16px;
 }
 .subscribe{
     font-weight: 700;
