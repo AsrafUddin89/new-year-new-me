@@ -75,6 +75,11 @@ color: #0bcff6df;
 /* Plan to Do */
 .my-plans{
     margin: 130px;
+}
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
     
 }
 .plan-container{
@@ -83,19 +88,85 @@ color: #0bcff6df;
     margin-right: 285px;
     justify-content: space-between;
     padding-top: 50px;
-   
-
-   
-}
-.plan-title{
-    text-align: center;
-    font-weight: 700;
-    font-size: 30px;
-   
 }
 .plan{
     text-align: center;
     
 }
+/* Hobby Section */
+.my-hobby{
+    margin: 130px;
+    
+}
+.hobby-container{
+    display: flex;
+    margin-left: 350px;
+    margin-right: 285px;
+    justify-content: space-between;
+    padding-top: 50px;
+    }
 
+.hobby-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    }
+   
+    plan{
+        text-align: center;
+    } 
+    /*textarea*/
+    .box{
+        align:center
+    
+    }
+  .reactangle{
+    font-weight: 800;
+    font-size: 35px;
+    width: 550px;
+    height: 175px;
+    
+    margin-left: 250px;
+    background-image:url("../new-year-new-me/images/watch.png");
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    padding: 60px 570px 59px 111px;
+   
+    
+  }
+  .btn-second{
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 25px 20px;
+    border: none;
+    border-radius: 5px;
+    color: 
+    #005FAC;
+    background-color: #eda324;
+  }
+/*footer*/
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #151414;
 
+}
+.future{
+    font-weight: 700;
+    
+    padding-left: 350px;
+    padding-right: 150px;
+    
+    color: #f0f8ff;
+    
+
+}
+.subscribe{
+    font-weight: 700;
+    
+   padding-left: 100px;
+   padding-right: 75px;
+    color: #f0f8ff;
+
+}
